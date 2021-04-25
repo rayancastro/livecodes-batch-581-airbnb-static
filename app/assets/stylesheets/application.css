@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+.flat-image {
+  border: 20px solid red ;
+}
